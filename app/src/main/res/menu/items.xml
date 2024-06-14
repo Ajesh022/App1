@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/btn1"
+        android:title="Choose Flavor 1"/>
+
+    <item android:id="@+id/btn2"
+        android:title="Choose Flavor 2"/>
+
+    <item android:id="@+id/btn3"
+        android:title="The Mixer Will Be Shown"/>
+
+</menu>
